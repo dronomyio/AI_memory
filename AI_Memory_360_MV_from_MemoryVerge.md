@@ -41,9 +41,12 @@ Memory-as-a-Service ($1.45T by 2030)
 
 AWS Bedrock AgentCore Memory
 Project MemMachine from memoryverge
-
+```
+<img width="845" height="466" alt="Screenshot 2025-11-25 at 12 27 42 PM" src="https://github.com/user-attachments/assets/be415971-c634-472c-bd3d-0ff60bc7f111" />
+```
 
 Memory types:
+
 Working Memory (short-term)
 Persistent Memory (long-term)
 Profile Memory
