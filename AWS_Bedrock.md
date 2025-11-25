@@ -11,11 +11,52 @@ Everything is rewritten into a coherent **“Context-Aware AI Agents”** summar
 
 Below is a comprehensive reconstruction of the content that appears across all the images.
 
+--- 
+
+<img width="948" height="528" alt="Screenshot 2025-11-25 at 1 52 21 PM" src="https://github.com/user-attachments/assets/31254488-35b0-42e3-86af-a1c952e63cd1" />
+
 ---
+<img width="413" height="560" alt="Screenshot 2025-11-25 at 1 52 59 PM" src="https://github.com/user-attachments/assets/0c76a87e-7bae-437c-8804-41d8f5571b88" />
+---
+
+<img width="794" height="461" alt="Screenshot 2025-11-25 at 1 52 04 PM" src="https://github.com/user-attachments/assets/4ee087a8-8420-4956-a110-1d0fa5aec944" />
+
+---
+<img width="674" height="364" alt="Screenshot 2025-11-25 at 1 51 43 PM" src="https://github.com/user-attachments/assets/7332b150-2ba7-41ca-bf00-0ad32878e4f6" />
+
+---
+<img width="824" height="464" alt="Screenshot 2025-11-25 at 1 51 33 PM" src="https://github.com/user-attachments/assets/40833ac2-2cb0-482a-99e3-edcffcb75812" />
+
+---
+<img width="961" height="512" alt="Screenshot 2025-11-25 at 1 51 15 PM" src="https://github.com/user-attachments/assets/363eafa7-994a-485d-886c-0c660551ea0a" />
+
+---
+<img width="896" height="561" alt="Screenshot 2025-11-25 at 1 51 06 PM" src="https://github.com/user-attachments/assets/ea2a4f57-b39d-42dc-88dd-73cfa13599e8" />
+
+-- 
+
+<img width="908" height="513" alt="Screenshot 2025-11-25 at 1 50 54 PM" src="https://github.com/user-attachments/assets/4e259a32-a0ea-4358-aafd-c8fa1b02923b" />
+
+---
+
+<img width="955" height="501" alt="Screenshot 2025-11-25 at 1 50 41 PM" src="https://github.com/user-attachments/assets/5a45a4e1-4ea3-4a8b-876a-20c565c51adc" />
+
+
+
+
+
+
+
+
+
 
 # **1. Core Question**
 
 ### **“What is needed to build context-aware AI agents?”**
+
+### Images
+
+
 
 Context-aware agents require:
 
@@ -195,12 +236,19 @@ This slide explains how AWS structures memory for production agents.
 
 Shows how:
 
+<img width="941" height="297" alt="Screenshot 2025-11-25 at 1 47 07 PM" src="https://github.com/user-attachments/assets/d8a85dd0-61c4-4e88-9158-8766f16a3824" />
+<img width="880" height="354" alt="Screenshot 2025-11-25 at 1 47 15 PM" src="https://github.com/user-attachments/assets/0b18260e-06aa-4a1a-8762-dd51351726d2" />
+<img width="957" height="303" alt="Screenshot 2025-11-25 at 1 47 38 PM" src="https://github.com/user-attachments/assets/43ee5b9e-6661-418d-89dc-bf51728caf9e" />
+
 * The agent
+
 * The agent implementation
 * The memory sync service
+
   … all coordinate during a conversation.
 
 Short-term memory updates continuously.
+
 
 ---
 
@@ -263,14 +311,3 @@ Choose which patterns become long-term memory, avoiding:
    * Task continuity
 
 ---
-
-# If you want:
-
-I can now generate:
-
-📌 **A polished 1-page summary PDF**
-📌 **A 10-page “Context-Aware AI Agents” whitepaper**
-📌 **A full slide deck (PPTX) reconstructed from your images**
-📌 **Integration code (Python / AWS Bedrock / LangChain / LlamaIndex)**
-
-Just tell me what format you want next.
