@@ -6,8 +6,11 @@ The audio is also attached.
 AI Memory Is the New “Data Platform” Delivering Context to the Models
 
 Foundational Models (OpenAI, Anthropic, Google, Meta, etc.)
+```
 
-AI Assistants<img width="857" height="443" alt="Screenshot 2025-11-25 at 12 23 10 PM" src="https://github.com/user-attachments/assets/2ff8bd84-b846-4825-84fe-44777c169429" />
+<img width="857" height="443" alt="Screenshot 2025-11-25 at 12 23 10 PM" src="https://github.com/user-attachments/assets/99635387-5575-41b6-a1ba-bf39d65be9ac" />
+
+```
 
 AI Agents
 Users
